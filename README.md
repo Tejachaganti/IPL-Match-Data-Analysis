@@ -72,3 +72,15 @@ Viva / Explanation pointers
 - Explain data cleaning steps: NA handling, date parsing, team standardization.
 - Explain each visualization and what it reveals about team advantage, toss influence, and venues.
 - Discuss limitations: winner labels rely on the CSV accuracy; mapping of team names is simple and may need expansion.
+
+
+## Dataset Setup
+
+The deliveries dataset is provided as a compressed file (deliveries.zip).
+
+Steps to run the project:
+1. Download the repository
+2. Extract deliveries.zip
+3. Place deliveries.csv in the project folder
+4. Run the application:
+   streamlit run app.py
